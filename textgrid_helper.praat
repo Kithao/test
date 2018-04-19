@@ -16,9 +16,11 @@
 # Read from file.../xxx/yyyy/zzzz/aaa.wav. /xxx/yyyy/zzzz/ is the path to the directory. 
 # Then you can then copy and paste the directory name.
 
+# This line is just to test if git works correctly :D
+
 form Textgrid helper
 	#sentence Directory ./
-	sentence Directory C:\Users\QuyThao\Documents\Prosody analysis\Tests_ERJ_TIMIT\ERJ\Native\12.democracy\
+	#sentence Directory C:\Users\QuyThao\Documents\Prosody analysis\Tests_ERJ_TIMIT\ERJ\Native\12.democracy\
 endform
 
 # this lists everything in the directory into what's called a Strings list
